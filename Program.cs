@@ -22,15 +22,28 @@ namespace Week3
             //     Console.WriteLine($"Hello World {a}");
             // }
 
-            const int count = 50;
+            // const int count = 50;
 
-            for (int i = 0; i < count; i++)
+            // for (int i = 0; i < count; i++)
+            // {
+            //     var a = i + 1;
+            //     if (a % 2 == 0)
+            //     {
+            //         Console.WriteLine(a);
+            //     }
+            // }
+
+            const int count = 50;
+            var i = 0;
+
+            while (i < count)
             {
                 var a = i + 1;
-                if (a % 2 == 0)
+                if (a % 2 != 0)
                 {
                     Console.WriteLine(a);
                 }
+                i++;
             }
             
             //End the program with blank line and instructions

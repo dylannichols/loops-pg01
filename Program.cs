@@ -33,18 +33,32 @@ namespace Week3
             //     }
             // }
 
-            const int count = 50;
-            var i = 0;
+            // const int count = 50;
+            // var i = 0;
 
-            while (i < count)
+            // while (i < count)
+            // {
+            //     var a = i + 1;
+            //     if (a % 2 != 0)
+            //     {
+            //         Console.WriteLine(a);
+            //     }
+            //     i++;
+            // }
+
+            // With this method, not sure if I comprehended instructions properly,
+            //  this is my implementation of my interpretation
+            const int count = 100;
+            var i = 200;
+
+            do
             {
-                var a = i + 1;
-                if (a % 2 != 0)
+                if (i % 25 == 0)
                 {
-                    Console.WriteLine(a);
+                    Console.WriteLine(i);
                 }
                 i++;
-            }
+            } while (i < count);
             
             //End the program with blank line and instructions
             Console.ResetColor();

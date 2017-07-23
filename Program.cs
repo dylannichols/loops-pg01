@@ -13,6 +13,11 @@ namespace Week3
 
             for (var i = 0; i < count; i++)
             {
+                Console.WriteLine("Hello World");
+            }
+
+            for (var i = 0; i < count; i++)
+            {
                 var a = i + 1;
                 Console.WriteLine($"Hello World {a}");
             }

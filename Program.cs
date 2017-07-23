@@ -9,17 +9,28 @@ namespace Week3
             //Start the program with Clear();
             Console.Clear();
             
-            const int count = 5;
+            // const int count = 5;
 
-            for (var i = 0; i < count; i++)
-            {
-                Console.WriteLine("Hello World");
-            }
+            // for (var i = 0; i < count; i++)
+            // {
+            //     Console.WriteLine("Hello World");
+            // }
 
-            for (var i = 0; i < count; i++)
+            // for (var i = 0; i < count; i++)
+            // {
+            //     var a = i + 1;
+            //     Console.WriteLine($"Hello World {a}");
+            // }
+
+            const int count = 50;
+
+            for (int i = 0; i < count; i++)
             {
                 var a = i + 1;
-                Console.WriteLine($"Hello World {a}");
+                if (a % 2 == 0)
+                {
+                    Console.WriteLine(a);
+                }
             }
             
             //End the program with blank line and instructions

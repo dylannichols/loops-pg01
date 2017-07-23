@@ -1,0 +1,8 @@
+/home/dylan/School/Prog/Repos/Week3/bin/Debug/netcoreapp1.1/Week3.deps.json
+/home/dylan/School/Prog/Repos/Week3/bin/Debug/netcoreapp1.1/Week3.runtimeconfig.json
+/home/dylan/School/Prog/Repos/Week3/bin/Debug/netcoreapp1.1/Week3.runtimeconfig.dev.json
+/home/dylan/School/Prog/Repos/Week3/bin/Debug/netcoreapp1.1/Week3.dll
+/home/dylan/School/Prog/Repos/Week3/bin/Debug/netcoreapp1.1/Week3.pdb
+/home/dylan/School/Prog/Repos/Week3/obj/Debug/netcoreapp1.1/Week3.AssemblyInfo.cs
+/home/dylan/School/Prog/Repos/Week3/obj/Debug/netcoreapp1.1/Week3.dll
+/home/dylan/School/Prog/Repos/Week3/obj/Debug/netcoreapp1.1/Week3.pdb

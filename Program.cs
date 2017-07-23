@@ -6,7 +6,22 @@ namespace Week3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Start the program with Clear();
+            Console.Clear();
+            
+            const int count = 5;
+
+            for (var i = 0; i < count; i++)
+            {
+                var a = i + 1;
+                Console.WriteLine($"Hello World {a}");
+            }
+            
+            //End the program with blank line and instructions
+            Console.ResetColor();
+            Console.WriteLine();
+            Console.WriteLine("Press <Enter> to quit the program");
+            Console.ReadKey();
         }
     }
 }

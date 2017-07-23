@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dylan/School/Prog/Repos/Week3/Week3.csproj",
-      "projectName": "Week3",
-      "projectPath": "/home/dylan/School/Prog/Repos/Week3/Week3.csproj",
-      "outputPath": "/home/dylan/School/Prog/Repos/Week3/obj/",
+      "projectUniqueName": "/home/dylan/School/Prog/Repos/loops-pg01/loops-pg01.csproj",
+      "projectName": "loops-pg01",
+      "projectPath": "/home/dylan/School/Prog/Repos/loops-pg01/loops-pg01.csproj",
+      "outputPath": "/home/dylan/School/Prog/Repos/loops-pg01/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Week3.dll": "/home/dylan/School/Prog/Repos/Week3/bin/placeholder/netcoreapp1.1/Week3.dll"
+        "lib/netcoreapp1.1/loops-pg01.dll": "/home/dylan/School/Prog/Repos/loops-pg01/bin/placeholder/netcoreapp1.1/loops-pg01.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
